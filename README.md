@@ -1,1 +1,5 @@
-# -PREDICTION-OF-BANK-TERM-DEPOSIT-CUSTOMER-SUBSCRIPTION
+# -ANALYSIS AND PREDICTION-OF-BANK-TERM-DEPOSIT-CUSTOMER-SUBSCRIPTION
+
+The importance of effective and efficient marketing strategies in the banking industry cannot be overemphasized. As financial institutions strive to attract and retain customers, the ability to identify and target individuals who are most likely to engage with their products and services becomes paramount. The utilization of data-driven approaches and advanced analytics techniques continues to be as a valuable tool for improving marketing campaign outcomes and enhancing overall success rates.
+
+The focus of this project is to analyze the Portuguese bank marketing dataset and develop a predictive model to identify the factors that are most predictive of customer subscription to a term deposit. By understanding the key determinants of customer behavior and leveraging this knowledge, banks can refine their marketing strategies, optimize resource allocation, and increase their success rates in acquiring term deposit subscriptions.
